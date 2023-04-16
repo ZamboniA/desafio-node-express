@@ -1,0 +1,21 @@
+{
+  "name": "desafio-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZamboniA/desafio-node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZamboniA/desafio-node-express/issues"
+  },
+  "homepage": "https://github.com/ZamboniA/desafio-node-express#readme"
+}
